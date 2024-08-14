@@ -14,7 +14,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download Datasets</a> •
+  <a href="#download-datasets">Download Datasets</a> •
   <a href="#related">Related</a> •
 </p>
 
